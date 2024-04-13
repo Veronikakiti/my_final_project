@@ -7,7 +7,7 @@
 * [Уровень инфляции в России](https://уровень-инфляции.рф/таблицы-инфляции)
 
 Приложение доступно по [ссылке](https://my-final-project.streamlit.app/)
----
+
 Файлы:
 - [app.py](https://github.com/Veronikakiti/my_final_project/blob/main/app.py) - файл для приложения streamlit
 - [salary_analysis.ipynb](https://github.com/Veronikakiti/my_final_project/blob/main/salary_analysis.ipynb) - Jupyter Notebook с анализом данных
