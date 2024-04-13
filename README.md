@@ -6,7 +6,7 @@
 * [Данные о "Среднемесячной номинальной начисленной заработной плате работников организаций по видам экономической деятельности в РФ за 2000-2023 гг."](https://rosstat.gov.ru/labor_market_employment_salaries)
 * [Уровень инфляции в России](https://уровень-инфляции.рф/таблицы-инфляции)
 
-Приложение доступно по [ссылке](https://my-final-project.streamlit.app/)
+**Приложение** доступно по [ссылке](https://my-final-project.streamlit.app/)
 
 Файлы:
 - [app.py](https://github.com/Veronikakiti/my_final_project/blob/main/app.py) - файл для приложения streamlit
